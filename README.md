@@ -8,6 +8,36 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 1.  后端 支持主流语言的主流框架，支持Docker等容器环境，取决于框架层是否支持
 1.  前端 Angular、React、Vue有分别实现
 
+### 平台模块 【2020-2025】大战略
+1. [_DB](_DB) 数据库文件
+1. [_DesignerMaterial](_DesignerMaterial) 设计素材
+1. [_DOC](_DOC) 应用文档
+1. [Client](Client) 前后端分离 客户端实现
+    1. [Client/Admin](Client/Admin)后台管理面板实现
+    1. [Client/Android](Client/Android)Android安卓原生APP实现
+    1. [Client/Console](Client/Console)入驻商/平台接入或用户级别管理中台
+    1. [Client/Flutter](Client/Flutter)Flutter跨平台APP实现
+    1. [Client/iOS](Client/iOS)iOS苹果原生APP实现
+    1. [Client/QuickApp](CLient/QuickApp)快应用实现
+    1. [Client/ReactNative](Client/ReactNative)ReactNative跨平台实现
+    1. [Cliet/Uni-App](Cliet/Uni-App)Uni-App跨平台框架实现
+    1. [Client/Web](Client/Web)PC网页版/或响应式非前后端分离实现
+    1. [Client/Wechat-H5](Client/Wechat-H5)微信H5网页版实现，具有微信服务号接入实现
+    1. [Client/Wechat-MiniProgram](Client/Wechat-MiniProgram)小程序官方原版实现
+    
+1. [Serve](Serve) 前后端分离 后端实现
+    1. [Serve/C#](Serve/C#) 后台C#语言实现
+    1. [Serve/Golang](Serve/Golang) 后台Golang语言实现
+    1. [Serve/Groovy](Serve/Groovy) 后台Groovy语言实现
+    1. [Serve/Java](Serve/Java) 后台Java语言实现
+    1. [Serve/Julia](Serve/Julia) 后台Julia语言实现
+    1. [Serve/Kotlin](Serve/Kotlin) 后台Kotlin语言实现
+    1. [Serve/Node.JS](Serve/Node.JS) 后台Node.JS语言实现
+    1. [Serve/PHP](Serve/PHP) 后台PHP语言实现
+    1. [Serve/Python](Serve/Python) 后台Python语言实现
+    1. [Serve/Ruby](Serve/Ruby) 后台Ruby语言实现
+    1. [Serve/Rust](Serve/Rust) 后台Rust语言实现
+    1. [Serve/Scala](Serve/Scala) 后台Scala语言实现
 
 #### 安装教程
 
