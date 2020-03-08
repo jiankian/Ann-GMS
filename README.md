@@ -9,9 +9,19 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 1.  前端 Angular、React、Vue有分别实现
 
 ### 平台模块 【2020-2025】大战略
-1. [_DB](_DB) 数据库文件
+1. [_DB](_DB) 数据库文件 支持主流数据库
+    1. [_DB/ArangoDB](_DB/ArangoDB)NOSQL文档以及图数据库_DB/ArangoDB实现
+    1. [_DB/MongoDB](_DB/MongoDb)NOSQL文档数据库MongoDb实现
+    1. [_DB/MySQL](_DB/MySQL) MySQL数据库实现
+    1. [_DB/PostgreSQL](_DB/PostgreSQL)PostgreSQL实现
+    1. [_DB/SQLite](_DB/SQLite)SQLite实现
+    1. [_DB/SQLServer](_DB/SQLServer)微软SQLServer实现（基于Docker跨平台在Mac系统上开发）
+    
+
 1. [_DesignMaterial](_DesignMaterial) 设计素材
+
 1. [_DOC](_DOC) 应用文档
+
 1. [Client](Client) 前后端分离 客户端实现
     1. [Client/Admin](Client/Admin)后台管理面板实现
     1. [Client/Android](Client/Android)Android安卓原生APP实现
@@ -38,6 +48,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
     1. [Serve/Ruby](Serve/Ruby) 后台Ruby语言实现
     1. [Serve/Rust](Serve/Rust) 后台Rust语言实现
     1. [Serve/Scala](Serve/Scala) 后台Scala语言实现
+
 
 #### 安装教程
 
