@@ -11,7 +11,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 ### 平台模块 【2020-2025】大战略
 1. [_DB](_DB) 数据库文件 支持主流数据库
     1. [_DB/ArangoDB](_DB/ArangoDB)NOSQL文档以及图数据库_DB/ArangoDB实现
-    1. [_DB/MongoDB](_DB/MongoDb)NOSQL文档数据库MongoDb实现
+    1. [_DB/MongoDB](_DB/MongoDB)NOSQL文档数据库MongoDb实现
     1. [_DB/MySQL](_DB/MySQL) MySQL数据库实现
     1. [_DB/PostgreSQL](_DB/PostgreSQL)PostgreSQL实现
     1. [_DB/SQLite](_DB/SQLite)SQLite实现
