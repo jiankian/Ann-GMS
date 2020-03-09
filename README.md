@@ -8,14 +8,17 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 1.  后端 支持主流语言的主流框架，支持Docker等容器环境，取决于框架层是否支持
 1.  前端 Angular、React、Vue有分别实现
 
-### 平台模块 【2020-2025】大战略
+## 平台模块 【2020-2025】大战略
+
+1. [_API](_API)API接口调用调试数据
+
 1. [_DB](_DB) 数据库文件 支持主流数据库
-    1. [_DB/ArangoDB](_DB/ArangoDB)NOSQL文档以及图数据库_DB/ArangoDB实现
-    1. [_DB/MongoDB](_DB/MongoDB)NOSQL文档数据库MongoDb实现
+    1. [_DB/ArangoDB](_DB/ArangoDB) NOSQL文档以及图数据库_DB/ArangoDB实现
+    1. [_DB/MongoDB](_DB/MongoDB) NOSQL文档数据库MongoDb实现
     1. [_DB/MySQL](_DB/MySQL) MySQL数据库实现
-    1. [_DB/PostgreSQL](_DB/PostgreSQL)PostgreSQL实现
-    1. [_DB/SQLite](_DB/SQLite)SQLite实现
-    1. [_DB/SQLServer](_DB/SQLServer)微软SQLServer实现（基于Docker跨平台在Mac系统上开发）
+    1. [_DB/PostgreSQL](_DB/PostgreSQL) PostgreSQL实现
+    1. [_DB/SQLite](_DB/SQLite) SQLite实现
+    1. [_DB/SQLServer](_DB/SQLServer) 微软SQLServer实现（基于Docker跨平台在Mac系统上开发）
     
 
 1. [_DesignMaterial](_DesignMaterial) 设计素材
@@ -23,20 +26,23 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 1. [_DOC](_DOC) 应用文档
 
 1. [Client](Client) 前后端分离 客户端实现
-    1. [Client/Admin](Client/Admin)后台管理面板实现
-    1. [Client/Android](Client/Android)Android安卓原生APP实现
-    1. [Client/Console](Client/Console)入驻商/平台接入或用户级别管理中台
-    1. [Client/Flutter](Client/Flutter)Flutter跨平台APP实现
-    1. [Client/iOS](Client/iOS)iOS苹果原生APP实现
-    1. [Client/QuickApp](Client/QuickApp)快应用实现
-    1. [Client/ReactNative](Client/ReactNative)ReactNative跨平台实现
-    1. [Client/Uni-App](Client/Uni-App)Uni-App跨平台框架实现
-    1. [Client/Web](Client/Web)PC网页版/或响应式非前后端分离实现
-    1. [Client/Wechat-H5](Client/Wechat-H5)微信H5网页版实现，具有微信服务号接入实现
-    1. [Client/Wechat-MiniProgram](Client/Wechat-MiniProgram)小程序官方原版实现
+    1. [Client/Admin](Client/Admin) 后台管理面板实现
+    1. [Client/Android](Client/Android) Android安卓原生APP实现
+    1. [Client/Console](Client/Console) 入驻商/平台接入或用户级别管理中台
+    1. [Client/Electron](Client/Electron) Electron实现桌面版本
+    1. [Client/Flutter](Client/Flutter) Flutter跨平台APP实现
+    1. [Client/iOS](Client/iOS) iOS苹果原生APP实现
+    1. [Client/QuickApp](Client/QuickApp) 快应用实现
+    1. [Client/ReactNative](Client/ReactNative) ReactNative跨平台实现
+    1. [Client/Uni-App](Client/Uni-App) Uni-App跨平台框架实现
+    1. [Client/Web](Client/Web) PC网页版/或响应式非前后端分离实现
+    1. [Client/Wechat-H5](Client/Wechat-H5) 微信H5网页版实现，具有微信服务号接入实现
+    1. [Client/Wechat-MiniProgram](Client/Wechat-MiniProgram) 小程序官方原版实现
     
 1. [Serve](Serve) 前后端分离 后端实现
     1. [Serve/CSharp](Serve/CSharp) 后台C# .NET core 平台实现语言实现
+    1. [Serve/Elixir](Serve/Elixir) 后台Elixir语言实现
+    1. [Serve/ErLang](Serve/ErLang) 后台ErLang语言实现
     1. [Serve/Golang](Serve/Golang) 后台Golang语言实现
     1. [Serve/Groovy](Serve/Groovy) 后台Groovy语言实现
     1. [Serve/Java](Serve/Java) 后台Java语言实现
@@ -48,6 +54,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
     1. [Serve/Ruby](Serve/Ruby) 后台Ruby语言实现
     1. [Serve/Rust](Serve/Rust) 后台Rust语言实现
     1. [Serve/Scala](Serve/Scala) 后台Scala语言实现
+    1. [Serve/Swift](Serve/Swift) 后台Swift语言实现
 
 
 #### 安装教程
@@ -70,4 +77,4 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 4.  新建 Pull Request
 
 
-#### @安浪创想  版权所有
+#### © Copyright @安浪创想 @绿血贵族（jiankian）  版权所有
