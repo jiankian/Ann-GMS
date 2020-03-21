@@ -59,6 +59,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
     1. [Serve/Rust](Serve/Rust) 后台Rust语言实现
     1. [Serve/Scala](Serve/Scala) 后台Scala语言实现
     1. [Serve/Swift](Serve/Swift) 后台Swift语言实现
+    1. [Serve/VLang](Serve/VLang) 后台VLang语言实现
 
 
 ## 安装教程
