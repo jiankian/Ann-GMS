@@ -1,7 +1,7 @@
 # 安浪统一企业级开放平台
 
 ## 介绍
-Anline General Manage System安浪企业级通用管理系统，终极目标是企业和个人直接获取，然后转变为自己的生产力项目。不仅可以学习使用，也可以在实际生产模式使用。项目的目标是真正的全平台、全端、全栈！跨开发语言、跨数据库、跨端、跨栈。既可以前后端分离，也可以传统模板引擎模式。可以理解为自定义选型来实现相同的功能！即后台面板有Angular版本、React版本、Vue.js版本，甚至还提供HTML版本！后台语言有Java版本、PHP版本、Nodejs版本、Golang版本、Rust版本等，当然不同语言版本的完善度是不会一样的，这取决于我对这个语言的熟练度和语言本身的局限性和特性特长等。客户端的实现为Android、iOS原生、微信小程序等各类小程序的实现、H5网页版的实现等
+Anline General Manage System安浪企业级通用管理系统，终极目标是企业和个人直接获取，然后转变为自己的生产力项目。不仅可以学习使用，也可以在实际生产模式使用。项目的目标是真正的全平台、全端、全栈！跨开发语言、跨数据库、跨端、跨栈。既可以前后端分离，也可以传统模板引擎模式。可以理解为自定义选型来实现相同的功能！即后台面板有Angular版本、React版本、Vue.js版本，甚至还提供HTML版本！后台语言有Java版本、PHP版本、Nodejs版本、Golang版本、Rust版本等，当然不同语言版本的完善度是不会一样的，这取决于我对这个语言的熟练度和语言本身的局限性和特性特长等。客户端的实现为Android、iOS原生、微信小程序等各类小程序的实现、H5网页版的实现等，新增Xamarin、HarmonyOS华为鸿蒙系统实例实现
 
 ## 软件架构
 1.  数据库 支持所有主流数据库，取决于所选用的数据库驱动和ORM框架
@@ -12,7 +12,9 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 
 本项目只做开发工作，关于服务器部署、分布式与集群、Docker虚拟化、Kubernetes(K8S)、微服务功能，取决于各平台各语言的实现实例是否支持。大多数选型都支持或仅支持独立进程运行，自己使用负载均衡软件开启服务发现即可。请不要把开发和运营混在一起
 
+
 ## 平台模块 【2020-2025】大战略
+⚠️⚠️⚠️各个模块项目会建立单独项目目录开发。本项目只作为项目导航汇总
 
 1. [_API](_API)API接口调用调试数据
 
@@ -37,13 +39,18 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
     1. [Client/Console](Client/Console) 入驻商/平台接入或用户级别管理中台
     1. [Client/Electron](Client/Electron) Electron实现桌面版本
     1. [Client/Flutter](Client/Flutter) Flutter跨平台APP实现
+    1. [Client/HarmonyOS](Client/HarmonyOS) HarmonyOS 华为鸿蒙系统客户端实现，该实例包含Java、Node/JS语言实现实例以及各端实例
     1. [Client/iOS](Client/iOS) iOS苹果原生APP实现
+    1. [Client/macOS](Client/macOS) macOS苹果电脑系统桌面原生实现（Simple）
+    1. [Client/PyQtGUI](Client/PyQtGUI) Qt for Python框架 Desktop桌面客户端实现实例
     1. [Client/QuickApp](Client/QuickApp) 快应用实现
     1. [Client/ReactNative](Client/ReactNative) ReactNative跨平台实现
     1. [Client/Uni-App](Client/Uni-App) Uni-App跨平台框架实现
     1. [Client/Web](Client/Web) PC网页版/或响应式非前后端分离实现
     1. [Client/Wechat-H5](Client/Wechat-H5) 微信H5网页版实现，具有微信服务号接入实现
     1. [Client/Wechat-MiniProgram](Client/Wechat-MiniProgram) 小程序官方原版实现
+    1. [Client/Windows](Client/Windows) Windows客户端实现，UWP、WPF、WCF/Forms实现（Simple）
+    1. [Client/Xamarin](Client/Xamarin) Xamarin跨平台移动APP方案实现
     
 1. [Serve](Serve) 前后端分离 后端实现
     1. [Serve/CSharp](Serve/CSharp) 后台C# .NET core 平台实现语言实现
