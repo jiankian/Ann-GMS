@@ -57,7 +57,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
     1. [Client/Xamarin](Client/Xamarin) Xamarin跨平台移动APP方案实现
     
 1. [Serve](Serve) 前后端分离 后端实现
-    1. [Serve/CSharp](Serve/CSharp) 后台C# .NET core 平台实现语言实现
+    1. [Serve/CSharp](Serve/CSharp) 后台C# .NET 平台实现语言实现
     1. [Serve/Elixir](Serve/Elixir) 后台Elixir语言实现
     1. [Serve/ErLang](Serve/ErLang) 后台ErLang语言实现
     1. [Serve/Golang](Serve/Golang) 后台Golang语言实现
