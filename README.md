@@ -38,7 +38,7 @@ Anline General Manage System安浪企业级通用管理系统，终极目标是�
 1. [_DOC](_DOC) 应用文档
 
 1. [Client](Client) 前后端分离 客户端实现
-    1. [Client/Admin](Client/Admin) 后台管理面板实现
+    1. [Client/Admin](Client/Admin) 后台管理面板实现[✅][Angular版本即将开源]
     1. [Client/Android](Client/Android) Android安卓原生APP实现
     1. [Client/Console](Client/Console) 入驻商/平台接入或用户级别管理中台
     1. [Client/Electron](Client/Electron) Electron实现桌面版本
